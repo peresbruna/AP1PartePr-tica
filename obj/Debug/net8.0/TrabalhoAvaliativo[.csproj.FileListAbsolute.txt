@@ -1,0 +1,14 @@
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\bin\Debug\net8.0\TrabalhoAvaliativo[.exe
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\bin\Debug\net8.0\TrabalhoAvaliativo[.deps.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\bin\Debug\net8.0\TrabalhoAvaliativo[.runtimeconfig.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\bin\Debug\net8.0\TrabalhoAvaliativo[.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\bin\Debug\net8.0\TrabalhoAvaliativo[.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\obj\Debug\net8.0\TrabalhoAvaliativo[.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\obj\Debug\net8.0\TrabalhoAvaliativo[.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\obj\Debug\net8.0\TrabalhoAvaliativo[.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\obj\Debug\net8.0\TrabalhoAvaliativo[.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\obj\Debug\net8.0\TrabalhoAvaliativo[.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\obj\Debug\net8.0\refint\TrabalhoAvaliativo[.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\obj\Debug\net8.0\TrabalhoAvaliativo[.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\obj\Debug\net8.0\TrabalhoAvaliativo[.genruntimeconfig.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Laboratório de Programação\TrabalhoAvaliativo\obj\Debug\net8.0\ref\TrabalhoAvaliativo[.dll
